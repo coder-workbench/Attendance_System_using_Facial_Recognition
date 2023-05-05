@@ -11,7 +11,7 @@ ref = db.reference("Students")
 data = {
     "12345":
         {
-            "Name": "Anushka Pansare",
+            "Name": "Lisa",
             "Major": "AIDS",
             "Starting_year": 2021,
             "Total_attendance": 54,
@@ -19,19 +19,9 @@ data = {
             "Roll_no": "A-09",
             "Last_attendance_time": "2023-05-15 00:20:34"
         },
-    "23456":
-        {
-            "Name": "Ayushi Lanjewar",
-            "Major": "AIDS",
-            "Starting_year": 2021,
-            "Total_attendance": 68,
-            "Current_year": 2,
-            "Roll_no": "A-14",
-            "Last_attendance_time": "2023-05-15 00:25:24"
-        },
     "34567":
         {
-            "Name": "Gururaj Khule",
+            "Name": "Requel",
             "Major": "AIDS",
             "Starting_year": 2021,
             "Total_attendance": 59,
@@ -41,7 +31,7 @@ data = {
         },
     "45678":
         {
-            "Name": "Akshay Thombare",
+            "Name": "Sergio",
             "Major": "AIDS",
             "Starting_year": 2021,
             "Total_attendance": 52,
@@ -49,19 +39,9 @@ data = {
             "Roll_no": "A-03",
             "Last_attendance_time": "2023-05-15 00:34:34"
         },
-    "56789":
-        {
-            "Name": "Ashwini Lanjewar",
-            "Major": "MBA",
-            "Starting_year": 2021,
-            "Total_attendance": 68,
-            "Current_year": 2,
-            "Roll_no": "A-28",
-            "Last_attendance_time": "2023-05-15 00:29:24"
-        },
     "67890":
         {
-            "Name": "Krishna Karkhanis",
+            "Name": "Denver",
             "Major": "AIDS",
             "Starting_year": 2021,
             "Total_attendance": 38,
